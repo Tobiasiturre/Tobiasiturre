@@ -1,4 +1,4 @@
-Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
+Hello there, I'm Iturre Tobias! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
 
 ## Currently I'm:
 
