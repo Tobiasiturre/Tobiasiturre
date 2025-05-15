@@ -1,4 +1,4 @@
-Hello there, I'm Iturre Tobias!. I am currently a programming technician when I am not coding I am reading books
+Hello there, I'm Iturre Tobias! I am currently a programming technician when I am not coding I am reading books, me apasiona codear
 ## Currently I'm:
 
 - Working on several AI/ML projects
