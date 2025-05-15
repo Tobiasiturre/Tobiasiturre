@@ -71,7 +71,7 @@ Hello, how are you? My name is Iturre Tobias.! I am currently a programming tech
 
 <p align="center"> 
   <i><b>Si puedes imaginarlo, puedes programarlo...</b></i><br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+  
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
 
