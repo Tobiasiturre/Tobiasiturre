@@ -37,7 +37,7 @@
 
 
 
-Hello good there, I'm Iturre Tobias! I am currently a programming technician when I am not coding I am reading books,
+Hello good,, I'm Iturre Tobias! I am currently a programming technician when I am not coding I am reading books,
 ## Currently I'm:
 
 - Working on several AI/ML projects
