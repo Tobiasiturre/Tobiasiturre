@@ -1,5 +1,4 @@
-Hello there, I'm Iturre Tobias! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
-
+Hello there, I'm Iturre Tobias! I am currently completing my Bachelors in Computer Science. I am currently a programming technician, when I am not coding I like to read books
 ## Currently I'm:
 
 - Working on several AI/ML projects
