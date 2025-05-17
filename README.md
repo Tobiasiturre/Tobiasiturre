@@ -93,7 +93,7 @@ Hello, how are you? My name is Iturre Tobias.! I am currently a programming tech
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="https://instagram.com/tobii._ok__" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+541134624470" target="blank"><img align="center"
